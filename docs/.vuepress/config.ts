@@ -2,7 +2,6 @@ import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from 'vuepress'
 
 export default defineUserConfig({
-    base: '/Blog/',
     head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
     // lang: 'zh-CN',
     // title: 'ARuanLY个人博客',
